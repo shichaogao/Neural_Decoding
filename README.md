@@ -9,7 +9,7 @@ Any advice will be appreciated！
 ## Table of contents
 
 - [Algorithms&Code](#jump_1)
-- [code](#jump_2)
+- [Data](#jump_2)
 
 <span id='jump_1'>Algorithms&Code</span>
 
@@ -20,4 +20,4 @@ Any advice will be appreciated！
 
 
 
-<span id='jump_2'>Algorithms&Code</span>
+<span id='jump_2'>Data</span>
