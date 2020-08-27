@@ -1,2 +1,2 @@
 # Neural_Decoding
-Collective open source data and code for neural computing and decoding
+Collective research on neural dynamics decoding. 
