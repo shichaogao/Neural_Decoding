@@ -17,6 +17,8 @@ Any advice will be appreciated！
 1.[Motor cortical dynamics are shaped by multiple distinct subspaces during naturalistic behavior](https://www.biorxiv.org/content/10.1101/2020.07.30.228767v1),biorxiv,2020.07<br>
 2.[An orderly single-trial organization of population dynamics in premotor cortex predicts behavioral variability](https://www.nature.com/articles/s41467-018-08141-6),Nature Communications,2019.01,[Notes](https://pillowlab.wordpress.com/2018/10/16/an-orderly-single-trial-organization-of-population-dynamics-in-premotor-cortex-predicts-behavioral-variability/),Pillow lab.<br>
 3.[High-dimensional geometry of population responses in visual cortex](https://www.nature.com/articles/s41586-019-1346-5),Nature,2019.06.<br>
+4.[Motor Cortex Embeds Muscle-like Commands in an Untangled Population Response](https://www.cell.com/neuron/fulltext/S0896-6273(18)30007-2),Cell,2018.02.[Notes](https://pillowlab.wordpress.com/2018/02/25/motor-cortex-embeds-muscle-like-commands-in-an-untangled-population-response/),Pillow lab<br>
+
 <span id='jump_2'>Code</span>
 
 
