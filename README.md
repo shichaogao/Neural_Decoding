@@ -8,10 +8,20 @@ Any advice will be appreciated！
 
 ## Table of contents
 
-- [Algorithms&Code](#jump_1)
-- [Data](#jump_2)
+- [Algorithms&Basic insights](#jump_1)
+- [Code](#jump_2)
+- [Data](#jump_3)
+- [Recording Devices&Open Source](#jump_4)
 
-<span id='jump_1'>Algorithms&Code</span><br>
+<span id='jump_1'>Algorithms&Basic insights</span><br>
 1.[Motor cortical dynamics are shaped by multiple distinct subspaces during naturalistic behavior](https://www.biorxiv.org/content/10.1101/2020.07.30.228767v1),biorxiv,2020.07<br>
 2.[An orderly single-trial organization of population dynamics in premotor cortex predicts behavioral variability](https://www.nature.com/articles/s41467-018-08141-6),Nature Communications,2019.01,[Notes](https://pillowlab.wordpress.com/2018/10/16/an-orderly-single-trial-organization-of-population-dynamics-in-premotor-cortex-predicts-behavioral-variability/),Pillow lab.<br>
-<span id='jump_2'>Data</span>
+
+
+
+<span id='jump_2'>Code</span>
+
+
+<span id='jump_3'>Data</span>
+
+<span id='jump_4'>Recording Devices&Open Source</span>
