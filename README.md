@@ -22,7 +22,7 @@ In chronological order:<br>
 5.[Motor Cortex Embeds Muscle-like Commands in an Untangled Population Response](https://www.cell.com/neuron/fulltext/S0896-6273(18)30007-2),Cell,2018.02.[Notes](https://pillowlab.wordpress.com/2018/02/25/motor-cortex-embeds-muscle-like-commands-in-an-untangled-population-response/),Pillow lab<br>
 6.[Large-scale recording of neuronal ensembles](https://www.nature.com/articles/nn1233),Nature Neuroscience,2004.<br>
 
-<span id='jump_2'>Code%Data</span>
+<span id='jump_2'>Code&Data</span>
 
 
 <span id='jump_3'>Applications</span>
