@@ -6,6 +6,7 @@ For some pioneering and significant work, my personal notes will be posted. <br>
 Lastly,welcome browse my [personal website](https://www.edwingsc.com/) for more understandings of neural decoding.<br>
 Any advice will be appreciated！
 
+*****************
 ## Table of contents
 
 - [Algorithms&Basic insights](#jump_1)
@@ -13,8 +14,8 @@ Any advice will be appreciated！
 - [Applications](#jump_3)
 - [Recording Devices&Open Source](#jump_4)
 
+*****************
 <span id='jump_1'>Algorithms&Basic insights</span><br>
-In chronological order:<br>
 1.[Computation Through Neural Population Dynamics](https://www.annualreviews.org/doi/pdf/10.1146/annurev-neuro-092619-094115),Annual reviews,2020.07.<br>
 2.[Motor cortical dynamics are shaped by multiple distinct subspaces during naturalistic behavior](https://www.biorxiv.org/content/10.1101/2020.07.30.228767v1),biorxiv,2020.07<br>
 3.[An orderly single-trial organization of population dynamics in premotor cortex predicts behavioral variability](https://www.nature.com/articles/s41467-018-08141-6),Nature Communications,2019.01,[Notes](https://pillowlab.wordpress.com/2018/10/16/an-orderly-single-trial-organization-of-population-dynamics-in-premotor-cortex-predicts-behavioral-variability/),Pillow lab.<br>
