@@ -13,7 +13,7 @@ Any advice will be appreciated！
 - [Code&Data](#jump_2)
 - [Applications](#jump_3)
 - [Recording Devices&Open Source](#jump_4)
-- [Neural decoder for motor cortex]
+- [Neural decoder for motor cortex](#jump_5)
 
 *****************
 <span id='jump_1'>Algorithms&Basic insights</span><br>
