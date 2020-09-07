@@ -46,6 +46,5 @@ Any advice will be appreciated！
 8.[Decoding neural activity to predict rat locomotion using intracortical and epidural arrays](https://iopscience.iop.org/article/10.1088/1741-2552/ab0698/meta).Journal of Neural Engineering.2019.03.<br>
 9.[Area 2 of primary somatosensory cortex encodes kinematics of the whole arm](https://elifesciences.org/articles/48198).eLife.<br>
 10.[Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces](https://www.jneurosci.org/content/38/44/9390.abstract).JNeuoscience.2018.10.<br>
-11.[Cortical population activity within a preserved neural manifold underlies multiple motor behaviors](https://www.nature.com/articles/s41467-018-06560-z).Nature Commun.2018.10.
+11.[Cortical population activity within a preserved neural manifold underlies multiple motor behaviors](https://www.nature.com/articles/s41467-018-06560-z).Nature Commun.2018.10.<br>
 12.[Long-term stability of cortical population dynamics underlying consistent behavior](https://www.nature.com/articles/s41593-019-0555-4).Nature Neuroscience.2020.01.<br>
-13.
