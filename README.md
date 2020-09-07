@@ -32,7 +32,7 @@ Any advice will be appreciated！
 
 <span id='jump_4'>Recording Devices&Open Source</span>
 
-<span id='jump_5'>Neural decoder for motor cortex</span>
+<span id='jump_5'>Neural decoder for motor cortex</span><br>
 1.[A cryptography-based approach for movement decoding](https://www.nature.com/articles/s41551-017-0169-7).Nature Biomedical engineering.2017.12.<br>
 2.[Motor cortical dynamics are shaped by multiple distinct subspaces during naturalistic behavior](https://www.biorxiv.org/content/10.1101/2020.07.30.228767v1),biorxiv,2020.07<br>
 3.[An orderly single-trial organization of population dynamics in premotor cortex predicts behavioral variability](https://www.nature.com/articles/s41467-018-08141-6),Nature Communications,2019.01,[Notes](https://pillowlab.wordpress.com/2018/10/16/an-orderly-single-trial-organization-of-population-dynamics-in-premotor-cortex-predicts-behavioral-variability/),Pillow lab.<br>
