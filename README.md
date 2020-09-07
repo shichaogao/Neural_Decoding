@@ -44,3 +44,4 @@ Any advice will be appreciated！
 7.[The Statistical Determinants of the Speed of Motor Learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005023).PLOS Computational Biology.2016.11.<br>
 8.[Decoding neural activity to predict rat locomotion using intracortical and epidural arrays](https://iopscience.iop.org/article/10.1088/1741-2552/ab0698/meta).Journal of Neural Engineering.2019.03.<br>
 9.[Area 2 of primary somatosensory cortex encodes kinematics of the whole arm](https://elifesciences.org/articles/48198).eLife.
+10.[Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces](https://www.jneurosci.org/content/38/44/9390.abstract).JNeuoscience.2018.10.<br>
