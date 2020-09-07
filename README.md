@@ -24,6 +24,7 @@ Any advice will be appreciated！
 5.[Motor Cortex Embeds Muscle-like Commands in an Untangled Population Response](https://www.cell.com/neuron/fulltext/S0896-6273(18)30007-2),Cell,2018.02.[Notes](https://pillowlab.wordpress.com/2018/02/25/motor-cortex-embeds-muscle-like-commands-in-an-untangled-population-response/),Pillow lab<br>
 6.[Large-scale recording of neuronal ensembles](https://www.nature.com/articles/nn1233),Nature Neuroscience,2004.<br>
 7.[A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2?fbclid=IwAR1CNdBmy-2d67lS5LyfbbMekDAgrX3tqAb3VV2YYAbY7-AvnePYOSlbQbc).Nature Neuroscience.2019.10.<br>
+8.[The roles of supervised machine learning in systems neuroscience](https://www.sciencedirect.com/science/article/pii/S0301008218300856).Progress in Neurobiology.2019.04.<br>
 
 <span id='jump_2'>Code&Data</span>
 
