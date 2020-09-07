@@ -41,5 +41,5 @@ Any advice will be appreciated！
 4.[Motor Cortex Embeds Muscle-like Commands in an Untangled Population Response](https://www.cell.com/neuron/fulltext/S0896-6273(18)30007-2),Cell,2018.02.[Notes](https://pillowlab.wordpress.com/2018/02/25/motor-cortex-embeds-muscle-like-commands-in-an-untangled-population-response/),Pillow lab<br>
 5.[Single reach plans in dorsal premotor cortex during a two-target task](https://www.nature.com/articles/s41467-018-05959-y).Nature Commun.2018.11.<br>
 6.[Population coding of conditional probability distributions in dorsal premotor cortex](https://www.nature.com/articles/s41467-018-04062-6).Nature Commun.2018.05.<br>
-7.[The Statistical Determinants of the Speed of Motor Learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005023).PLOS Computational Biology.2016.11.
+7.[The Statistical Determinants of the Speed of Motor Learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005023).PLOS Computational Biology.2016.11.<br>
 8.[Decoding neural activity to predict rat locomotion using intracortical and epidural arrays](https://iopscience.iop.org/article/10.1088/1741-2552/ab0698/meta).Journal of Neural Engineering.2019.03.<br>
