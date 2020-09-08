@@ -27,7 +27,8 @@ Any advice will be appreciated！
 8.[The roles of supervised machine learning in systems neuroscience](https://www.sciencedirect.com/science/article/pii/S0301008218300856).Progress in Neurobiology.2019.04.<br>
 9.[Machine learning for neural decoding](https://arxiv.org/abs/1708.00909).arXiv.2017.08.<br>
 10.[Navigating the Neural Space in Search of the Neural Code](https://www.sciencedirect.com/science/article/pii/S0896627317301034?via%3Dihub).NEURON.2017.03.<br>
-11.[New perspectives on dimensionality and variability from large-scale cortical dynamics](https://www.sciencedirect.com/science/article/pii/S0959438819300388)<br>
+11.[New perspectives on dimensionality and variability from large-scale cortical dynamics
+(https://www.sciencedirect.com/science/article/pii/S0959438819300388).Current Opinion in Neurobiology.2019.09.<br>
 <span id='jump_2'>Code&Data</span>
 
 
