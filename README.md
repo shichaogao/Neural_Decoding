@@ -54,7 +54,7 @@ Any advice will be appreciated！
 13.[Deep learning reaches the motor system](https://www.nature.com/articles/s41592-018-0152-6).Nature news&views.2018.10.<br>
 14.[Extracellular voltage threshold settings can be tuned for optimal encoding of movement and stimulus parameters](https://iopscience.iop.org/article/10.1088/1741-2560/13/3/036009/meta).Journal of Neural Engineering.2016.04.<br>
 15.[Brain–computer interfaces for dissecting cognitive processes underlying sensorimotor control](https://www.sciencedirect.com/science/article/pii/S095943881500183X).Current Opinion in Neurobiology.2016.04.<br>
-16.[Single-unit activity, threshold crossings, and local field potentials in motor cortex differentially encode reach kinematics](https://journals.physiology.org/doi/full/10.1152/jn.00293.2014).Journal of Neurophysiology.2015.12.<br>.
+16.[Single-unit activity, threshold crossings, and local field potentials in motor cortex differentially encode reach kinematics](https://journals.physiology.org/doi/full/10.1152/jn.00293.2014).Journal of Neurophysiology.2015.12.<br>
 17.[A Path to Understanding How Motor Cortex Influences Muscle Activity](https://www.sciencedirect.com/science/article/pii/S0896627317306402?via%3Dihub).Neuron.2017.08.<br>
 18.[Internal models for interpreting neural population activity during sensorimotor control](https://elifesciences.org/articles/10015).Elife.2015.12.<br>
 19.[Motor cortical control of movement speed with implications for brain-machine interface control](https://journals.physiology.org/doi/full/10.1152/jn.00391.2013).JNP.2014.08.<br>
@@ -66,4 +66,8 @@ Any advice will be appreciated！
 25.[Technical considerations for generating somatosensation via cortical stimulation in a closed-loop sensory/motor brain-computer interface system in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7330927/).
 26.[Reconfiguring motor circuits for a joint manual and BCI task](https://arxiv.org/abs/1702.07368).arXiv.2019.12.<br>
 27.[Neural correlates of cognitive motor signals in primary somatosensory cortex](https://www.biorxiv.org/content/10.1101/2020.04.20.041269v1.full).bioArxiv.2020.04.<br>
-28.
+28.[Decoding Kinematics from Human Parietal Cortex using Neural Networks](https://ieeexplore.ieee.org/document/8717137).9th International IEEE EMBS Conference on Neural Engineering.2019.03.<br>
+29.[Decoding motor imagery from the posterior parietal cortex of a tetraplegic human](https://science.sciencemag.org/content/348/6237/906/tab-pdf).Science.2015.05.<br>
+30.[Cortico-Cortical Interactions during Acquisition and Use of a Neuroprosthetic Skill](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004931).PLOS Computational bio.2016.08.<br>
+31.[Sequential activation of premotor, primary somatosensory and primary motor areas in humans during cued finger movements](https://www.sciencedirect.com/science/article/pii/S1388245715000231).Clinical Neurophysiology.2015.12.<br>
+32.[Simultaneous and independent control of a brain-computer interface and contralateral limb movement](https://www.tandfonline.com/doi/abs/10.1080/2326263X.2015.1080961).Brain-Computer Interfaces.2015.<br>
