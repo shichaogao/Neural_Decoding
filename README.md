@@ -29,8 +29,10 @@ Any advice will be appreciated！
 10.[Navigating the Neural Space in Search of the Neural Code](https://www.sciencedirect.com/science/article/pii/S0896627317301034?via%3Dihub).NEURON.2017.03.<br>
 11.[New perspectives on dimensionality and variability from large-scale cortical dynamics
 (https://www.sciencedirect.com/science/article/pii/S0959438819300388).Current Opinion in Neurobiology.2019.09.<br>
-<span id='jump_2'>Code&Data</span>
+12.[SpikeDeeptector: a deep-learning based method for detection of neural spiking activity](https://iopscience.iop.org/article/10.1088/1741-2552/ab1e63).2019.08.<br>
+13.[SpikeDeep-Classifier: A deep-learning based fully automatic offline spike sorting algorithm](https://arxiv.org/abs/1912.10749).arXiv.2019.12.<br>
 
+<span id='jump_2'>Code&Data</span>
 
 <span id='jump_3'>Applications</span>
 
@@ -53,3 +55,15 @@ Any advice will be appreciated！
 14.[Extracellular voltage threshold settings can be tuned for optimal encoding of movement and stimulus parameters](https://iopscience.iop.org/article/10.1088/1741-2560/13/3/036009/meta).Journal of Neural Engineering.2016.04.<br>
 15.[Brain–computer interfaces for dissecting cognitive processes underlying sensorimotor control](https://www.sciencedirect.com/science/article/pii/S095943881500183X).Current Opinion in Neurobiology.2016.04.<br>
 16.[Single-unit activity, threshold crossings, and local field potentials in motor cortex differentially encode reach kinematics](https://journals.physiology.org/doi/full/10.1152/jn.00293.2014).Journal of Neurophysiology.2015.12.<br>.
+17.[A Path to Understanding How Motor Cortex Influences Muscle Activity](https://www.sciencedirect.com/science/article/pii/S0896627317306402?via%3Dihub).Neuron.2017.08.<br>
+18.[Internal models for interpreting neural population activity during sensorimotor control](https://elifesciences.org/articles/10015).Elife.2015.12.<br>
+19.[Motor cortical control of movement speed with implications for brain-machine interface control](https://journals.physiology.org/doi/full/10.1152/jn.00391.2013).JNP.2014.08.<br>
+20.[A high-performance neural prosthesis enabled by control algorithm design](https://www.nature.com/articles/nn.3265).Nature.2012.12.<br>
+21.[A dynamical systems view of motor preparation: Implications for neural prosthetic system design](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665515/).Prog Brain Res.2011.<br>
+22.[Roles of Monkey Premotor Neuron Classes in Movement Preparation and Execution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2934936/).JNP.2010.08.<br>
+23.[Single-Trial Neural Correlates of Arm Movement Preparation](https://www.sciencedirect.com/science/article/pii/S0896627311005174?via%3Dihub).NEURON.2010.08.<br>
+24.[From thought to action: The brain–machine interface in posterior parietal cortex](https://www.pnas.org/content/116/52/26274).PNAS.2019.12.<br>
+25.[Technical considerations for generating somatosensation via cortical stimulation in a closed-loop sensory/motor brain-computer interface system in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7330927/).
+26.[Reconfiguring motor circuits for a joint manual and BCI task](https://arxiv.org/abs/1702.07368).arXiv.2019.12.<br>
+27.[Neural correlates of cognitive motor signals in primary somatosensory cortex](https://www.biorxiv.org/content/10.1101/2020.04.20.041269v1.full).bioArxiv.2020.04.<br>
+28.
