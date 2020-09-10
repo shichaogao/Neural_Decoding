@@ -50,3 +50,5 @@ Any advice will be appreciated！
 11.[Cortical population activity within a preserved neural manifold underlies multiple motor behaviors](https://www.nature.com/articles/s41467-018-06560-z).Nature Commun.2018.10.<br>
 12.[Long-term stability of cortical population dynamics underlying consistent behavior](https://www.nature.com/articles/s41593-019-0555-4).Nature Neuroscience.2020.01.<br>
 13.[Deep learning reaches the motor system](https://www.nature.com/articles/s41592-018-0152-6).Nature news&views.2018.10.<br>
+14.[Extracellular voltage threshold settings can be tuned for optimal encoding of movement and stimulus parameters](https://iopscience.iop.org/article/10.1088/1741-2560/13/3/036009/meta).Journal of Neural Engineering.2016.04.<br>
+15.[Brain–computer interfaces for dissecting cognitive processes underlying sensorimotor control](https://www.sciencedirect.com/science/article/pii/S095943881500183X).Current Opinion in Neurobiology.2016.04.<br>
