@@ -31,8 +31,11 @@ Any advice will be appreciated！
 (https://www.sciencedirect.com/science/article/pii/S0959438819300388).Current Opinion in Neurobiology.2019.09.<br>
 12.[SpikeDeeptector: a deep-learning based method for detection of neural spiking activity](https://iopscience.iop.org/article/10.1088/1741-2552/ab1e63).2019.08.<br>
 13.[SpikeDeep-Classifier: A deep-learning based fully automatic offline spike sorting algorithm](https://arxiv.org/abs/1912.10749).arXiv.2019.12.<br>
+14.[Accurate Estimation of Neural Population Dynamics without Spike Sorting](https://www.sciencedirect.com/science/article/pii/S0896627319304283).NEURON.2019.08<br>
+
 
 <span id='jump_2'>Code&Data</span>
+
 
 <span id='jump_3'>Applications</span>
 
@@ -73,4 +76,8 @@ Any advice will be appreciated！
 32.[Simultaneous and independent control of a brain-computer interface and contralateral limb movement](https://www.tandfonline.com/doi/abs/10.1080/2326263X.2015.1080961).Brain-Computer Interfaces.2015.<br>
 33.[The Statistical Determinants of the Speed of Motor Learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005023).PLOS Computational Biology.2016.12.<br>
 34.[Neural population dynamics during reaching](https://www.nature.com/articles/nature11129).Nature.2012.<br>
-35.
+35.[A high-performance neural prosthesis enabled by control algorithm design](https://www.nature.com/articles/nn.3265).Nature.2013.<br>
+36.[Inferring single-trial neural population dynamics using sequential auto-encoders](https://www.nature.com/articles/s41592-018-0109-9).Nature methods.2018.12.<br>
+37.[Single Neuron Firing Rate Statistics in Motor Cortex During Execution and Observation of Movement](https://ieeexplore.ieee.org/abstract/document/8512445).IEEE.2012.
+38.[Neural Population Dynamics Underlying Motor Learning Transfer](https://www.sciencedirect.com/science/article/pii/S0896627318300655).Neuron.2018.03.<br>
+39.[Trial-by-Trial Motor Cortical Correlates of a Rapidly Adapting Visuomotor Internal Model](https://www.jneurosci.org/content/37/7/1721.abstract).Journal of Neuroscience.2017.02.<br>
