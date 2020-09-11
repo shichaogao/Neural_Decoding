@@ -81,4 +81,25 @@ Any advice will be appreciated！
 37.[Single Neuron Firing Rate Statistics in Motor Cortex During Execution and Observation of Movement](https://ieeexplore.ieee.org/abstract/document/8512445).IEEE.2012.<br>
 38.[Neural Population Dynamics Underlying Motor Learning Transfer](https://www.sciencedirect.com/science/article/pii/S0896627318300655).Neuron.2018.03.<br>
 39.[Trial-by-Trial Motor Cortical Correlates of a Rapidly Adapting Visuomotor Internal Model](https://www.jneurosci.org/content/37/7/1721.abstract).Journal of Neuroscience.2017.02.<br>
-40.
+40.[Single-trial dynamics of motor cortex and their applications to brain-machine interfaces](https://www.nature.com/articles/ncomms8759/).Nature.2015.08.<br>
+41.[Neural population dynamics in human motor cortex during movements in people with ALS](https://elifesciences.org/articles/07436).eLife.2015.07.<br>
+42.[Combining Decoder Design and Neural Adaptation in Brain-Machine Interfaces](https://www.sciencedirect.com/science/article/pii/S0896627314007399).Neuron.2014.11.<br>
+43.[Neural Dynamics of Reaching following Incorrect or Absent Motor Preparation](https://www.sciencedirect.com/science/article/pii/S0896627313010374).Neuron.2014.01.<br>
+44.[Simultaneous motor preparation and execution in a last-moment reach correction task](https://www.nature.com/articles/s41467-019-10772-2).Nature Commu.2019.07.<br>
+45.[Multiplicative recurrent neural network for fast and robust intracortical brain machine interface decoders](https://patents.google.com/patent/US10223634B2/en).US patent app.
+46.[Hand Knob Area of Premotor Cortex Represents the Whole Body in a Compositional Way](https://www.sciencedirect.com/science/article/pii/S0092867420302208).CELL.2020.04.<br>
+47.[Causal Role of Motor Preparation during Error-Driven Learning](https://www.sciencedirect.com/science/article/pii/S0896627320300453).Neuron.2020.04.<br>
+48.[Speech-related dorsal motor cortex activity does not interfere with iBCI cursor control](https://iopscience.iop.org/article/10.1088/1741-2552/ab5b72/meta).JNE.2020.02.<br>
+49.[Neural Representation of Observed, Imagined, and Attempted Grasping Force in Motor Cortex of Individuals with Chronic Tetraplegia](https://www.nature.com/articles/s41598-020-58097-1).Scientific Report.2020.01.<br>
+50.[The neural representation of force across grasp types in motor cortex of humans with tetraplegia](https://www.biorxiv.org/content/10.1101/2020.06.01.126755v1.abstract).bioAxiv.2020.06.<br>
+51.[Skill-specific changes in cortical preparatory activity during motor learning](https://www.biorxiv.org/content/10.1101/2020.01.30.919894v1.abstract).bioAxiv.2020.01.<br>
+52.[Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015).eLife.2019.12.<br>
+53.[Structure in Neural Activity during Observed and Executed Movements Is Shared at the Neural Population Level, Not in Single Neurons](https://www.sciencedirect.com/science/article/pii/S2211124720309918).Cell Report.2020.08.<br>
+54.[A Comparison of Intention Estimation Methods for Decoder Calibration in Intracortical Brain–Computer Interfaces](https://ieeexplore.ieee.org/document/8207634).IEEE.2017.12.<br>
+55.[Brain-machine interface cursor position only weakly affects monkey and human motor cortical activity in the absence of arm movements](https://www.nature.com/articles/s41598-018-34711-1).Science Reports.2018.11.<br>
+56.[Cortical control of a tablet computer by people with paralysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204566).PLOS one.2018.11.<br>
+57.[Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces](https://www.jneurosci.org/content/38/44/9390.abstract).2018.10.Journal of Neuroscience.<br>
+58.[The Representation of Finger Movement and Force in Human Motor and Premotor Cortices](https://www.eneuro.org/content/7/4/ENEURO.0063-20.2020).eNeuro.2020.08.<br>
+59.[Principled BCI Decoder Design and Parameter Selection Using a Feedback Control Model](https://www.nature.com/articles/s41598-019-44166-7).Scientific Reports.2019.08.<br>
+
+
