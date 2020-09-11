@@ -27,8 +27,7 @@ Any advice will be appreciated！
 8.[The roles of supervised machine learning in systems neuroscience](https://www.sciencedirect.com/science/article/pii/S0301008218300856).Progress in Neurobiology.2019.04.<br>
 9.[Machine learning for neural decoding](https://arxiv.org/abs/1708.00909).arXiv.2017.08.<br>
 10.[Navigating the Neural Space in Search of the Neural Code](https://www.sciencedirect.com/science/article/pii/S0896627317301034?via%3Dihub).NEURON.2017.03.<br>
-11.[New perspectives on dimensionality and variability from large-scale cortical dynamics]
-(https://www.sciencedirect.com/science/article/pii/S0959438819300388).Current Opinion in Neurobiology.2019.09.<br>
+11.[New perspectives on dimensionality and variability from large-scale cortical dynamics](https://www.sciencedirect.com/science/article/pii/S0959438819300388).Current Opinion in Neurobiology.2019.09.<br>
 12.[SpikeDeeptector: a deep-learning based method for detection of neural spiking activity](https://iopscience.iop.org/article/10.1088/1741-2552/ab1e63).2019.08.<br>
 13.[SpikeDeep-Classifier: A deep-learning based fully automatic offline spike sorting algorithm](https://arxiv.org/abs/1912.10749).arXiv.2019.12.<br>
 14.[Accurate Estimation of Neural Population Dynamics without Spike Sorting](https://www.sciencedirect.com/science/article/pii/S0896627319304283).NEURON.2019.08<br>
