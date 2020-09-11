@@ -71,3 +71,6 @@ Any advice will be appreciated！
 30.[Cortico-Cortical Interactions during Acquisition and Use of a Neuroprosthetic Skill](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004931).PLOS Computational bio.2016.08.<br>
 31.[Sequential activation of premotor, primary somatosensory and primary motor areas in humans during cued finger movements](https://www.sciencedirect.com/science/article/pii/S1388245715000231).Clinical Neurophysiology.2015.12.<br>
 32.[Simultaneous and independent control of a brain-computer interface and contralateral limb movement](https://www.tandfonline.com/doi/abs/10.1080/2326263X.2015.1080961).Brain-Computer Interfaces.2015.<br>
+33.[The Statistical Determinants of the Speed of Motor Learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005023).PLOS Computational Biology.2016.12.<br>
+34.[Neural population dynamics during reaching](https://www.nature.com/articles/nature11129).Nature.2012.<br>
+35.
