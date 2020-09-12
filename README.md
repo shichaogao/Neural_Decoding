@@ -31,7 +31,7 @@ Any advice will be appreciated！
 12.[SpikeDeeptector: a deep-learning based method for detection of neural spiking activity](https://iopscience.iop.org/article/10.1088/1741-2552/ab1e63).2019.08.<br>
 13.[SpikeDeep-Classifier: A deep-learning based fully automatic offline spike sorting algorithm](https://arxiv.org/abs/1912.10749).arXiv.2019.12.<br>
 14.[Accurate Estimation of Neural Population Dynamics without Spike Sorting](https://www.sciencedirect.com/science/article/pii/S0896627319304283).NEURON.2019.08<br>
-
+15.[Principles of Corticocortical Communication: Proposed Schemes and Design Considerations](https://www.sciencedirect.com/science/article/pii/S016622362030165X).Trends in Neurosciences.2020.09.<br>
 
 <span id='jump_2'>Code&Data</span>
 
@@ -100,5 +100,7 @@ Any advice will be appreciated！
 57.[Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces](https://www.jneurosci.org/content/38/44/9390.abstract).2018.10.Journal of Neuroscience.<br>
 58.[The Representation of Finger Movement and Force in Human Motor and Premotor Cortices](https://www.eneuro.org/content/7/4/ENEURO.0063-20.2020).eNeuro.2020.08.<br>
 59.[Principled BCI Decoder Design and Parameter Selection Using a Feedback Control Model](https://www.nature.com/articles/s41598-019-44166-7).Scientific Reports.2019.08.<br>
+60.[Human motor decoding from neural signals: a review](https://link.springer.com/article/10.1186/s42490-019-0022-z).2019.BMC Biomedical Engineering.<br>
+
 
 
