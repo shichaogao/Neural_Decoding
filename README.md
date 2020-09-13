@@ -85,7 +85,7 @@ Any advice will be appreciated！
 42.[Combining Decoder Design and Neural Adaptation in Brain-Machine Interfaces](https://www.sciencedirect.com/science/article/pii/S0896627314007399).Neuron.2014.11.<br>
 43.[Neural Dynamics of Reaching following Incorrect or Absent Motor Preparation](https://www.sciencedirect.com/science/article/pii/S0896627313010374).Neuron.2014.01.<br>
 44.[Simultaneous motor preparation and execution in a last-moment reach correction task](https://www.nature.com/articles/s41467-019-10772-2).Nature Commu.2019.07.<br>
-45.[Multiplicative recurrent neural network for fast and robust intracortical brain machine interface decoders](https://patents.google.com/patent/US10223634B2/en).US patent app.
+45.[Multiplicative recurrent neural network for fast and robust intracortical brain machine interface decoders](https://patents.google.com/patent/US10223634B2/en).US patent app.<br>
 46.[Hand Knob Area of Premotor Cortex Represents the Whole Body in a Compositional Way](https://www.sciencedirect.com/science/article/pii/S0092867420302208).CELL.2020.04.<br>
 47.[Causal Role of Motor Preparation during Error-Driven Learning](https://www.sciencedirect.com/science/article/pii/S0896627320300453).Neuron.2020.04.<br>
 48.[Speech-related dorsal motor cortex activity does not interfere with iBCI cursor control](https://iopscience.iop.org/article/10.1088/1741-2552/ab5b72/meta).JNE.2020.02.<br>
@@ -101,6 +101,6 @@ Any advice will be appreciated！
 58.[The Representation of Finger Movement and Force in Human Motor and Premotor Cortices](https://www.eneuro.org/content/7/4/ENEURO.0063-20.2020).eNeuro.2020.08.<br>
 59.[Principled BCI Decoder Design and Parameter Selection Using a Feedback Control Model](https://www.nature.com/articles/s41598-019-44166-7).Scientific Reports.2019.08.<br>
 60.[Human motor decoding from neural signals: a review](https://link.springer.com/article/10.1186/s42490-019-0022-z).2019.BMC Biomedical Engineering.<br>
-
+61.[Decoding hand kinematics from population responses in sensorimotor cortex during grasping](https://iopscience.iop.org/article/10.1088/1741-2552/ab95ea/meta).JNE.2020.08.<br>
 
 
