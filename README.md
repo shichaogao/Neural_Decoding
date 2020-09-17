@@ -42,6 +42,10 @@ Any advice will be appreciated！
 ##### Reviews
 1.[THE SIGNIFICANCE OF NEURAL ENSEMBLE CODES DURING BEHAVIOR AND COGNITION](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.20.1.217).Annual Review of Neuroscience.1997.03.<br>
 
+
+[NEURAL POPULATION DYNAMICS UNDERLYING MOTOR LEARNING](https://search.proquest.com/docview/2432842651/abstract/2D19E67718DB4049PQ/1?accountid=178566).Stanford Dissertations.2020.<br>
+[Neural dynamics in cortical populations](https://discovery.ucl.ac.uk/id/eprint/1462037/).UCL Dissertation.2015.<br>
+
 <span id='jump_5'>Neural decoder for motor cortex</span><br>
 1.[A cryptography-based approach for movement decoding](https://www.nature.com/articles/s41551-017-0169-7).Nature Biomedical engineering.2017.12.<br>
 2.[Motor cortical dynamics are shaped by multiple distinct subspaces during naturalistic behavior](https://www.biorxiv.org/content/10.1101/2020.07.30.228767v1),biorxiv,2020.07<br>
