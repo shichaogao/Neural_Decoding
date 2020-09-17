@@ -105,5 +105,5 @@ Any advice will be appreciated！
 60.[Human motor decoding from neural signals: a review](https://link.springer.com/article/10.1186/s42490-019-0022-z).2019.BMC Biomedical Engineering.<br>
 61.[Decoding hand kinematics from population responses in sensorimotor cortex during grasping](https://iopscience.iop.org/article/10.1088/1741-2552/ab95ea/meta).JNE.2020.08.<br>
 62.[Cortical pattern generation during dexterous movement is input-driven](https://www.nature.com/articles/s41586-019-1869-9).Nature.2020.<br>
-
-
+63.[NEURAL POPULATION DYNAMICS UNDERLYING MOTOR LEARNING](https://search.proquest.com/docview/2432842651/abstract/2D19E67718DB4049PQ/1?accountid=178566).Stanford Dissertations.2020.<br>
+64.[Neural dynamics in cortical populations](https://discovery.ucl.ac.uk/id/eprint/1462037/).UCL Dissertation.2015.<br>
