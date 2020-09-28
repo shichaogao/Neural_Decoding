@@ -111,3 +111,4 @@ Any advice will be appreciated！
 62.[Cortical pattern generation during dexterous movement is input-driven](https://www.nature.com/articles/s41586-019-1869-9).Nature.2020.<br>
 63.[NEURAL POPULATION DYNAMICS UNDERLYING MOTOR LEARNING](https://search.proquest.com/docview/2432842651/abstract/2D19E67718DB4049PQ/1?accountid=178566).Stanford Dissertations.2020.<br>
 64.[Neural dynamics in cortical populations](https://discovery.ucl.ac.uk/id/eprint/1462037/).UCL Dissertation.2015.<br>
+65.[Deep Learning Neural Encoders for Motor Cortex](https://ieeexplore.ieee.org/document/8911512).IEEE.2019.<br>
