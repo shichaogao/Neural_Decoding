@@ -70,7 +70,7 @@ Any advice will be appreciated！
 22.[Roles of Monkey Premotor Neuron Classes in Movement Preparation and Execution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2934936/).JNP.2010.08.<br>
 23.[Single-Trial Neural Correlates of Arm Movement Preparation](https://www.sciencedirect.com/science/article/pii/S0896627311005174?via%3Dihub).NEURON.2010.08.<br>
 24.[From thought to action: The brain–machine interface in posterior parietal cortex](https://www.pnas.org/content/116/52/26274).PNAS.2019.12.<br>
-25.[Technical considerations for generating somatosensation via cortical stimulation in a closed-loop sensory/motor brain-computer interface system in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7330927/).
+25.[Technical considerations for generating somatosensation via cortical stimulation in a closed-loop sensory/motor brain-computer interface system in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7330927/).<br>
 26.[Reconfiguring motor circuits for a joint manual and BCI task](https://arxiv.org/abs/1702.07368).arXiv.2019.12.<br>
 27.[Neural correlates of cognitive motor signals in primary somatosensory cortex](https://www.biorxiv.org/content/10.1101/2020.04.20.041269v1.full).bioArxiv.2020.04.<br>
 28.[Decoding Kinematics from Human Parietal Cortex using Neural Networks](https://ieeexplore.ieee.org/document/8717137).9th International IEEE EMBS Conference on Neural Engineering.2019.03.<br>
