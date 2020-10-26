@@ -114,4 +114,4 @@ Any advice will be appreciated！
 65.[Deep Learning Neural Encoders for Motor Cortex](https://ieeexplore.ieee.org/document/8911512).IEEE.2019.<br>
 
 ##### tools
-1.Kilosort2.[github](https://github.com/MouseLand/Kilosort2).[lecture1](https://www.janelia.org/lab/pachitariu-lab/talks).[lecture2](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course).<br>
+1.Neuropixels and Kilosort2.[github](https://github.com/MouseLand/Kilosort2).[lecture1](https://www.janelia.org/lab/pachitariu-lab/talks).[lecture2](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course).[paper1](https://papers.nips.cc/paper/6326-fast-and-accurate-spike-sorting-of-high-channel-count-probes-with-kilosort).[paper2](https://www.biorxiv.org/content/10.1101/061481v1).[paper3](https://ieeexplore.ieee.org/document/7900417).[paper4](https://www.nature.com/articles/nature24636).[data](https://www.ucl.ac.uk/neuropixels/examples).<br>.
