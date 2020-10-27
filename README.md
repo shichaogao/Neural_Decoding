@@ -1,5 +1,5 @@
 # Neural_Decoding
-Collective research on neural dynamics decoding. <br>
+Collective research on neural dynamics decoding and spike sort algorithms. <br>
 **Contributer**:Shichao Gao **Advisor**:Prof.Xiaojian Li,SIAT,CAS <br>
 If there is any question,please feel free to contact:shichao_gao@outlook.com <br>
 For some pioneering and significant work, my personal notes will be posted. <br>
@@ -112,6 +112,11 @@ Any advice will be appreciated！
 63.[NEURAL POPULATION DYNAMICS UNDERLYING MOTOR LEARNING](https://search.proquest.com/docview/2432842651/abstract/2D19E67718DB4049PQ/1?accountid=178566).Stanford Dissertations.2020.<br>
 64.[Neural dynamics in cortical populations](https://discovery.ucl.ac.uk/id/eprint/1462037/).UCL Dissertation.2015.<br>
 65.[Deep Learning Neural Encoders for Motor Cortex](https://ieeexplore.ieee.org/document/8911512).IEEE.2019.<br>
+66.[Encoder-Decoder Optimization for Brain-Computer Interfaces](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004288).PLOS Comp bio.2015.06.<br>
+67.[Neuroprosthetic Decoder Training as Imitation Learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004948).PLOS Comp bio.2016.05.<br>
+68.[Linear dynamical neural population models through nonlinear embeddings](http://papers.nips.cc/paper/6430-linear-dynamical-neural-population-models-through-nonlinear-embeddings).NIPS.2016.<br>
+69.
 
 ##### tools
 1.Neuropixels and Kilosort2.[github](https://github.com/MouseLand/Kilosort2).[lecture1](https://www.janelia.org/lab/pachitariu-lab/talks).[lecture2](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course).[paper1](https://papers.nips.cc/paper/6326-fast-and-accurate-spike-sorting-of-high-channel-count-probes-with-kilosort).[paper2](https://www.biorxiv.org/content/10.1101/061481v1).[paper3](https://ieeexplore.ieee.org/document/7900417).[paper4](https://www.nature.com/articles/nature24636).[data](https://www.ucl.ac.uk/neuropixels/examples).<br>.
+2.[YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf+html).<br>
